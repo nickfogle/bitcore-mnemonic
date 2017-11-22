@@ -42,7 +42,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "^0.15.0",
+    "bitcore-lib": "git+https://github.com/nickfogle/bitcore-lib",
     "unorm": "^1.3.3"
   }
 }
